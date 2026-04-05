@@ -9,7 +9,7 @@
 <p align="center">
   <strong>全平台社交媒体自动发布助手</strong>
   <br>
-  闲鱼 · 小红书 · B站专栏 · 抖音图文 ——— 一键分发全网
+  闲鱼 · 小红书 · B站专栏 · 抖音图文
 </p>
 
 <p align="center">
